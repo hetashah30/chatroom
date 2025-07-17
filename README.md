@@ -1,4 +1,4 @@
-```markdown
+
 # 💬 Real-Time Chat Application
 
 A real-time web chat application built using **Node.js**, **Socket.IO**, and **Vanilla JavaScript**. Users can join a chatroom with a username and instantly start chatting with others online.
@@ -17,7 +17,7 @@ A real-time web chat application built using **Node.js**, **Socket.IO**, and **V
 
 ## 📹 Demo Video
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/3m3oJtNNKHE/0.jpg)](https://youtu.be/3m3oJtNNKHE)
+[![Watch Demo on YouTube][https://youtu.be/3m3oJtNNKHE](https://youtu.be/Y2n9hU5xJJs)
 
 Click the image above to watch demo.
 
@@ -42,7 +42,7 @@ Click the image above to watch demo.
 
 ## 📁 Project Structure
 
-```
+
 
 📦 chat-app/
 ├── public/
