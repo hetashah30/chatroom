@@ -9,17 +9,18 @@ A real-time web chat application built using **Node.js**, **Socket.IO**, and **V
 
 ## 📸 Screenshot
 
-![Chat App Screenshot](./public/chatroom1.png)
-
-![Chat App Screenshot](./public/chatroom2.png)
+<p align="center">
+  <img src="./public/chatroom1.png" alt="Chat Screenshot 1" width="45%" style="margin-right:10px;" />
+  <img src="./public/chatroom2.png" alt="Chat Screenshot 2" width="45%" />
+</p>
 
 ---
 
 ## 📹 Demo Video
 
-[![Watch Demo on YouTube][https://youtu.be/3m3oJtNNKHE](https://youtu.be/Y2n9hU5xJJs)
+[![Watch Demo on YouTube](https://img.youtube.com/vi/Y2n9hU5xJJs/0.jpg)](https://youtu.be/Y2n9hU5xJJs)
 
-Click the image above to watch demo.
+Click the image above to watch a short walkthrough.
 
 ---
 
