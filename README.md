@@ -9,7 +9,9 @@ A real-time web chat application built using **Node.js**, **Socket.IO**, and **V
 
 ## 📸 Screenshot
 
-![Chat App Screenshot](public/screenshot.png)
+![Chat App Screenshot](public/chatroom1.png)
+
+![Chat App Screenshot](public/chatroom2.png)
 
 ---
 
